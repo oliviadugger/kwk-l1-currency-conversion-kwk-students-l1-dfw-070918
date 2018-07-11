@@ -17,4 +17,5 @@ def usd_to_jpy
   jpy = eur*111.91
 end
 
-
+def usd_to_aud
+  aud = usd/
